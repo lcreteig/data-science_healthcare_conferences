@@ -70,3 +70,8 @@ Formerly a NeurIPS workshop; stand-alone since 2021.
 - [:calendar: :cinema: 2021 edition](https://r-medicine.org/schedule/)
 - [:calendar: 2020 edition](https://events.linuxfoundation.org/r-medicine/)
     - [:cinema:](https://youtube.com/playlist?list=PL4IzsxWztPdljYo7uE5G_R2PtYw3fUReo)
+
+## ESC
+[*European Society of Cardiology (**ESC**) Digital Summit*](https://www.escardio.org/Congresses-&-Events/ESC-Digital-Summit/
+)
+> a “must attend” if you are interested in how cardiology is modernising [...] From Artificial Intelligence to Robotics, to Big Data, and Apps and wearables – all of these topics (and more) will be covered.
