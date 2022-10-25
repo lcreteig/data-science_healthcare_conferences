@@ -75,3 +75,11 @@ Formerly a NeurIPS workshop; stand-alone since 2021.
 [*European Society of Cardiology (**ESC**) Digital Summit*](https://www.escardio.org/Congresses-&-Events/ESC-Digital-Summit/
 )
 > a “must attend” if you are interested in how cardiology is modernising [...] From Artificial Intelligence to Robotics, to Big Data, and Apps and wearables – all of these topics (and more) will be covered.
+
+## SAIL
+[*Symposium on Artificial Intelligence for Learning Health Systems (**SAIL**)*](https://sail.health)
+> an annual international conference launched in 2020 [...] for clinicians, clinical informaticians and AI researchers [...] to explore the integration of artificial intelligence (AI) techniques into clinical medicine
+
+- :calendar: 2023 edition: May 9-12, Río Grande, Puerto Rico, :puerto_rico:
+- [:calendar: :cinema: 2022 edition](https://sail.health/sail2022.html)
+- [:calendar: :cinema: 2020 edition](https://sail.health/sail2020.html)
